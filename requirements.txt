@@ -1,0 +1,6 @@
+# Pin scikit-learn to the version used in Colab (check with: !pip show scikit-learn)
+scikit-learn
+pandas
+numpy
+joblib
+gradio
